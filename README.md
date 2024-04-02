@@ -1,10 +1,10 @@
-# Microsoft Page Clone
+# **💻 Microsoft Page Clone**
 
 This project is a basic clone of the Microsoft homepage. It aims to replicate the layout and design of the Microsoft website for educational purposes.
 
 ## Live Demo
 
-Access the live demo of the microsoft page clone https://microsoft-clone-project.vercel.app/
+Access the live demo of the Microsoft page clone ➡️ https://microsoft-clone-project.vercel.app/
 
 ## Features
 
@@ -14,9 +14,9 @@ Access the live demo of the microsoft page clone https://microsoft-clone-project
 
 ## Technologies Used
 
-- HTML5 <br>
+- HTML5 
 - CSS3
 
 ## Credits
 
-This project is hosted on https://vercel.com/
+This project is hosted on https://vercel.com/ 🌐
