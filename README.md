@@ -19,7 +19,7 @@ Access the live demo of the Microsoft page clone [here](https://microsoft-clone-
 
 ## Credits
 
-This project is hosted on https://vercel.com/ 🌐
+This project is hosted on [Vercel](https://vercel.com/) 🌐
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/2c2cef41-a93d-498d-a164-60310ff3d75e">
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/8ade8916-c55f-43f8-ae8b-b7da0a40a1e2">
